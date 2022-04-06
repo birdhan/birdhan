@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 希望在此多认识一些志同道合的朋友！
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birdhan&hide=contribs,prs)
