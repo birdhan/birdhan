@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **birdhan/birdhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+一个网络安全爱好者，对技术有着偏执狂一样的追求，个人公众号：Bypass--，喜欢研究和分享各种黑客技术。
+
+我在厦门工作，希望在此多认识一些志同道合的朋友！
+
+birdhan's github stats
