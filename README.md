@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/birdhan/birdhan/raw/master/work.gif"/>
+  <img align="center" src="https://github.com/birdhan/birdhan/blob/main/work.gif"/>
 </p>
 
 ### Hi there 👋
