@@ -1,3 +1,7 @@
+<p align="center">
+  <img align="center" src="https://github.com/birdhan/birdhan/raw/master/work.gif"/>
+</p>
+
 ### Hi there 👋
 
 一些有趣的项目。
